@@ -1,0 +1,42 @@
+{
+  "id": "fvtt-frontmatter-importer",
+  "name": "Frontmatter Importer",
+  "title": "Foundry VTT Frontmatter Importer",
+  "description": "import foundry entities from external Frontmatter",
+  "version": "0.1.1",
+  "author": "Christopher Richmond",
+  "authors": [
+    {
+      "name": "Christopher Richmond",
+      "email": "lancer1977@gmail.com",
+      "discord": "breadcrumb1001"
+    }
+  ],
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "11",
+  "compatibility": {
+    "minimum": 8,
+    "verified": "11",
+    "maximum": "13"
+  },
+  "scripts": [],
+  "esmodules": ["module/fvtt-frontmatter-importer.js"],
+  "styles": ["styles/fvtt-frontmatter-importer.css"],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "socket": false,
+  "url": "https://github.com/lancer1977/fvtt-frontmatter-importer",
+  "manifest": "https://github.com/lancer1977/fvtt-frontmatter-importer/releases/latest/download/module.json",
+  "download": "https://github.com/lancer1977/fvtt-frontmatter-importer/releases/download/v0.2.50/module.zip",
+  "license": "GPL3",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "library": false
+}
